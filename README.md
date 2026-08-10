@@ -1,65 +1,33 @@
-<h1 align="center">Hi, I'm Mohsin Ali Mukadam 👋</h1>
-<h3 align="center">Data Analyst | Aspiring Data Scientist</h3>
+### Hi, I'm Mohsin.
 
-<p align="center">
-  Turning raw, messy data into clear, decision-ready insights.
-</p>
+I work as a Data Analyst, mainly with SQL, Python, Power BI, and Tableau. I like taking a messy dataset and figuring out what story it's actually telling — most of my work is somewhere between writing queries, building dashboards, and occasionally training a model when the question calls for it.
 
----
+I spent the last year at Zeetech Academy doing data support and training — helping people debug their SQL, clean up their datasets, and get their Power BI dashboards to actually work. Before that I did an MSc in Computer Science, and I've been steadily adding machine learning and some deep learning to what I can do.
 
-### 🧭 About Me
+This profile is a work in progress — I'm rebuilding a few of my past projects properly and pushing them here one at a time instead of dumping everything at once.
 
-- 🔍 Data Analyst with hands-on, project-tested expertise in **SQL, Python, Power BI, Tableau, and Advanced Excel**
-- 🧠 Comfortable applying **machine learning** — regression, classification, clustering — and exploring **deep learning & NLP**
-- 📊 I like turning business questions into interactive dashboards and clear, drill-down insights
-- 🌱 Currently building out my project portfolio — check out my pinned repos below
-- 📫 Reach me at: **mohsinmukadam208@gmail.com**
-- 💼 [LinkedIn](#www.linkedin.com/in/mohsin-ali-mukadam) &nbsp;|&nbsp; 📍 Mumbai, India
+**Currently working on:** an end-to-end SQL analysis project (retail data, joins + window functions + business KPIs)
+
+**Get in touch:** mohsinmukadam208@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohsin-ali-mukadam) · Mumbai, India
 
 ---
 
-### 🛠️ Tech Stack
+#### What I use day to day
 
-**Languages & Querying**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+SQL (MySQL) · Python (Pandas, NumPy, scikit-learn) · Power BI · Tableau · Excel (VBA/Macros) · Git
 
-**Data & ML Libraries**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**BI & Visualization**
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-**Tools**
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+Picking up along the way: neural networks, NLP, computer vision — from a Data Science course I completed this year.
 
 ---
 
-### 📌 Featured Projects
+#### Projects
 
-| Project | Tools | Description |
-|---|---|---|
-| [Project Name](#) | SQL, Power BI | One-line description of what it does and the business question it answers |
-| [Project Name](#) | Python, scikit-learn | One-line description |
-| [Project Name](#) | Tableau | One-line description |
-| [Project Name](#) | Deep Learning, CNN | One-line description |
+- **[project name]** — one-line description of the problem it solves (SQL / MySQL)
+- **[project name]** — one-line description (Python, scikit-learn)
+- **[project name]** — one-line description (Power BI / Tableau)
 
+*(updating this as I finish each one — links go live here)*
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
-<p align="center"><i>Open to Data Analyst / Data Science opportunities — let's connect!</i></p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150"/>
