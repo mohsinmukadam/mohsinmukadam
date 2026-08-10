@@ -14,7 +14,7 @@
 - 📊 I like turning business questions into interactive dashboards and clear, drill-down insights
 - 🌱 Currently building out my project portfolio — check out my pinned repos below
 - 📫 Reach me at: **mohsinmukadam208@gmail.com**
-- 💼 [LinkedIn](#) &nbsp;|&nbsp; 📍 Mumbai, India
+- 💼 [LinkedIn](www.linkedin.com/in/mohsin-ali-mukadam) &nbsp;|&nbsp; 📍 Mumbai, India
 
 ---
 
