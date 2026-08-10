@@ -50,7 +50,6 @@
 | [Project Name](#) | Tableau | One-line description |
 | [Project Name](#) | Deep Learning, CNN | One-line description |
 
-*(Replace these rows with your real repos once they're up — link each project name directly to its repo)*
 
 ---
 
