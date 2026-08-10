@@ -8,7 +8,9 @@ This profile is a work in progress — I'm rebuilding a few of my past projects 
 
 **Currently working on:** an end-to-end SQL analysis project (retail data, joins + window functions + business KPIs)
 
-**Get in touch:** mohsinmukadam208@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohsin-ali-mukadam) · Mumbai, India
+**📧 Get in touch:**
+mohsinmukadam208@gmail.com · 
+[LinkedIn](https://www.linkedin.com/in/mohsin-ali-mukadam) · Mumbai, India
 
 ---
 
